@@ -14,16 +14,16 @@ It is a network administration command-line tool used for querying the Domain Na
 
  #### Mac OSX:
 
- python3 NslookUp_Script.py
-            or
-python NslookUp_Script.py
+1. python3 NslookUp_Script.py
+            (or)
+2. python NslookUp_Script.py
 
 
 #### Linux:
 
-python3 NslookUp_Script.py
-            or
-python NslookUp_Script.py
+1. python3 NslookUp_Script.py
+            (or)
+2. python NslookUp_Script.py
 
 
 ### Dependencies:
