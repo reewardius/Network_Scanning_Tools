@@ -10,7 +10,7 @@ It is a network administration command-line tool used for querying the Domain Na
 
 This Script is used to perform both Nslookup and Reverse Nslookup Operations for the given url and Ip address based on the respective operation.
 
-### Installation:
+## Installation:
 
 #### Windows:
 
