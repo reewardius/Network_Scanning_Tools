@@ -28,8 +28,8 @@ python NslookUp_Script.py
 
 ### Dependencies:
 
-python v3.x is required.
-termcolor module is required.
+1. python v3.x is required.
+2. termcolor module is required.
 
 
 
