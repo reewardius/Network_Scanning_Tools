@@ -1,6 +1,6 @@
 # PORT SCANNER.
 # developed by Sri Manikanta Palakollu.
-# Python v3.6.7
+# Python v3.7.2
 
 __author__ = "Sri Manikanta Palakollu."
 
@@ -113,7 +113,6 @@ def scanner_worker_thread(host):
             else:
                 print("Port Number: {} is OPEN!".format(port))
         port_queue.task_done()
-
 
 
 scan_args = get_scan_args()
